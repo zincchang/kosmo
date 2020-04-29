@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h2>회원 가입</h2>
+	<form action="#">
+		<input type="text"/>
+	</form>
 </body>
 </html>
